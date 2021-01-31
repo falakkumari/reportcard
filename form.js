@@ -29,7 +29,7 @@ class Form
         this.title.html("Report Card")
         this.title.position(600, 50)
 
-        this.name.html ("Name: ")
+        this.name.html ("Names: ")
         this.name.position(500,150)
         this.nameinput.position(600, 175)
         
